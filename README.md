@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @parijat-mukherjee
 - 👀 I’m interested in Full Stack Web Development and Python Development
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on Front End Projects
+- 🌱 I’m currently working with the MERN stack
+- 💞️ I’m looking to collaborate on full stack projects
 - 📫 How to reach me: Shoot an email at parijatmukherjee000@gmail.com
 
 <!---
